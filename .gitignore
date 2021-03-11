@@ -1,0 +1,7 @@
+output/prob2/compressed/*.txt
+output/prob2/decompressed/*.txt
+output/prob3/compressed/*.txt
+output/prob3/decompressed/*.txt
+
+__pycache__
+.vscode

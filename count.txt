@@ -1,0 +1,15 @@
+prob2
+char | freq | probability
+  a     32    [0.032]
+  b     582   [0.582]
+  c     190   [0.190]
+  d     98    [0.098]
+  e     98    [0.098]
+
+prob3
+char | freq | probability
+  a    253    [0.253]
+  b    212    [0.212]
+  c    449    [0.449]
+  d    50     [0.050]
+  e    36     [0.036]
